@@ -51,9 +51,14 @@ margin: 0;}
 }
 .name{
     display: flex;
+    justify-content: space-around;
+
 }
 .image{
-
+justify-content: space-around;
+display: flex;
+height: 300px;
+width: ;
 }
 .end {
 padding-left:100px;
@@ -72,26 +77,30 @@ text-align: center;
     color: rgb(244, 7, 121);
 }
 
-.fifth{
-    justify-content: center;
+.fifth{ 
     text-align: center;
+    justify-content: space-between;
+    
 }
 .images{
     display: flex;
+   text-align: center;
     height:400px;
-    width: 400px;
+    width: 400px;;
     padding-left:;
     padding-right:;
-    padding-bottom: 50px;
-    padding-top: 10px;
+    padding-bottom: ;
+    padding-top: ;
 }
 .sixth{
     background-image: url(./Rectangle\ 9.png);
-    width: 1440px;
-    height: 449px;
-   padding-left: ;
+  background-position: center center ;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 1440px; 
+   height: 449px;
    padding-right:;
-   padding-top: ;
+   padding-top:300px ; 
    padding-bottom: ;
    text-align: center;
    justify-content: center;
