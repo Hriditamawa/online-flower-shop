@@ -83,25 +83,25 @@ text-align: center;
     
 }
 .images{
+    justify-content: space-between;
     display: flex;
-   text-align: center;
-    height:400px;
-    width: 400px;;
-    padding-left:;
-    padding-right:;
-    padding-bottom: ;
-    padding-top: ;
+   text-align:center;
+   
+}
+#email{
+    padding:10px ;
 }
 .sixth{
+    
     background-image: url(./Rectangle\ 9.png);
-  background-position: center center ;
+   
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size:contain;
   width: 1440px; 
    height: 449px;
-   padding-right:;
    padding-top:300px ; 
-   padding-bottom: ;
    text-align: center;
    justify-content: center;
+   
 }
