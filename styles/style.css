@@ -1,1 +1,13 @@
-*{}
+
+.banner-img{
+    width: 300px;
+height:500px;
+}
+
+.banner-container{
+    background: rgba(205, 57, 89, 0.1);
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+
