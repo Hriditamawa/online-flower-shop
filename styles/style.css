@@ -1,13 +1,49 @@
+.{padding: 0;
+margin: 0;}
+
 
 .banner-img{
     width: 300px;
-height:500px;
+    height:500px;
+    
 }
 
 .banner-container{
-    background: rgba(205, 57, 89, 0.1);
+    margin: 0  ;
+    background: #fc055f27;
     display: flex;
     justify-content: space-around;
+   padding-top: 50px;
+    align-items:center;
     height: 500px;
+    padding-left: 190px;
+    padding-right: 200px;
+
 }
+.title{font-size: 60px;
+    font-weight: bold;
+    
+}
+.description{
+    font-weight: lighter;
+    font-size: small;
+    padding-bottom: 15px;
+    
+}
+
+.btn{
+   
+    padding: 10px;
+    background-color: rgb(250, 86, 165);
+    color: white;
+    border: 0;
+}
+
+.title .description {
+   display: inline-block;
+   padding-right: 100px;
+}
+
+
+
 
