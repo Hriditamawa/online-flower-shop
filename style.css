@@ -28,6 +28,7 @@ margin: 0;}
     font-weight: lighter;
     font-size: small;
     padding-bottom: 15px;
+    color: rgb(125, 117, 117);
     
 }
 
@@ -44,26 +45,54 @@ margin: 0;}
    padding-right: 100px;
 }
 
+.second{
+    text-align: center;
+    align-items: center;
+}
+.name{
+    display: flex;
+}
+.image{
+
+}
 .end {
-padding-left:200px;
+padding-left:100px;
 padding-right: 100px;
 padding-top: 50px;
 padding-bottom: 50px;
 background-color: black;
 color: white;
+text-align: center;
+}
+.time{
+    color: rgb(156, 152, 152);
 }
 
 .primary-color{
     color: rgb(244, 7, 121);
 }
 
+.fifth{
+    justify-content: center;
+    text-align: center;
+}
 .images{
     display: flex;
-    height:300px;
-    width: 300px;
-    padding-left:100px;
-    padding-right:100px ;
+    height:400px;
+    width: 400px;
+    padding-left:;
+    padding-right:;
     padding-bottom: 50px;
     padding-top: 10px;
-  
+}
+.sixth{
+    background-image: url(./Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+   padding-left: ;
+   padding-right:;
+   padding-top: ;
+   padding-bottom: ;
+   text-align: center;
+   justify-content: center;
 }
