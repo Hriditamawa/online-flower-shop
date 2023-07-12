@@ -53,10 +53,32 @@
     justify-content: space-around;
 
 }
-.image{
-justify-content: space-around;
+.box {justify-content: space-evenly;
 display: flex;
-height: 300px;
+height:300px ;
+}
+
+.box-box1{ 
+    padding: 80px;
+    padding-bottom: 0;
+    border-radius: 200px 200px 0px 0px;
+    background-color:#A7216226 ;
+}
+.box-box2{
+    padding: 80px; 
+    padding-bottom: ;
+    background-color:#0597A026;
+    border-radius: 200px 200px 0px 0px;
+    
+}
+.box-box3{
+    
+    
+    padding: 80px;
+    padding-bottom: 0px;
+    background-color: #477D1126;
+    border-radius: 300px 300px 0px 0px;
+
 
 }
 .end {
